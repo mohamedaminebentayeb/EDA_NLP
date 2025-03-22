@@ -5,7 +5,6 @@ For a survey of data augmentation in NLP, see this [repository](https://github.c
 
 This repository provides code for augmenting text classification datasets using our novel **LLM-Augmentation** method. Unlike traditional augmentation techniques that rely on simple text editing operations, our approach leverages a pretrained Language Model (LLM) to perform intelligent modifications while preserving the original meaning.
 
-A blog post that explains our LLM-based augmentation method is available [here](https://medium.com/). 
 
 By adapting ideas from EDA and enhancing them with the power of modern LLMs, our method achieves robust performance gains, especially on small datasets (`N < 500`). The LLM handles tasks such as synonym replacement, word insertion, swapping, and deletion by generating modifications according to carefully designed prompts.
 
