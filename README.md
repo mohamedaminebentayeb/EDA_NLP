@@ -83,9 +83,5 @@ If you use EDA in your paper, please cite us:
 }
 ```
 
-# Experiments
-
-The code is not documented, but is [here](https://github.com/jasonwei20/eda_nlp/tree/master/experiments) for all experiments used in the paper. See [this issue](https://github.com/jasonwei20/eda_nlp/issues/10) for limited guidance.
-
 
 
