@@ -16,11 +16,7 @@ Given a sentence in your training set, our method performs the following operati
 - **Random Swap (RS):** The LLM swaps exactly *n* words in the sentence, ensuring that the overall meaning is preserved.
 - **Random Deletion (RD):** The LLM selectively deletes words from the sentence based on a specified probability *p*, while keeping the core meaning intact.
 
-<p align="center">
-  <img src="llm_aug_figure.png" alt="LLM Augmentation Overview" width="400" class="center">
-</p>
 
-Average performance on several datasets shows that our LLM-based augmentation provides competitive improvements compared to traditional methods.
 
 # Usage
 
